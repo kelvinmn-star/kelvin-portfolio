@@ -37,6 +37,7 @@ This project demonstrates practical skills in Python development, Flask applicat
 
 Install the dependencies:
 
-`ash
+```bash
 python -m pip install -r requirements.txt
 python app.py
+```
